@@ -37,4 +37,4 @@ Our NFT marketplace must allow users to:
 
 - Additional features like Favourite items
 - API documentation like OpenAPI spec
-- Unit Test on API endpoints 
+- Unit Test or Storybook Snapshot Tests 
