@@ -6,7 +6,7 @@ Build an NFT marketplace web application similar to [Opensea Explore Page](https
 The application must allow user to:
 - Browse items by collection name
 - View item in details - description, seller, and price
-- Leave comments on any items
+- Leave comments on any item
 
 ## Architecture
 We need only 2 components for this exam, Frontend Application and Backend API.
@@ -30,7 +30,7 @@ Backend API will be running as another server waiting for HTTP request from Fron
     - Use any CSS framework as you wish 
     - Provide screens to list NFT and show item details with user comments
 4. Create `installation.md` and write instruction on how to run your application.
-5. Submit your repository url once your work is ready to review within deadline.
+5. Submit your repository url once your work is ready to review.
 
 ## Evaluation Criteria
 - Feature completion
